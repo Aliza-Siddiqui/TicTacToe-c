@@ -60,11 +60,11 @@ Player 2: O
 ---|---|---
  7 | 8 | 9
 
-Player 1, enter your move (1-9): 5
+Player 1, enter your move (1-9): 4
 
    |   |   
 ---|---|---
-   X   |   
+X  |   |   
 ---|---|---
    |   |   
 ...
