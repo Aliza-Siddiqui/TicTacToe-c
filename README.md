@@ -75,6 +75,8 @@ X  |   |
 - Enhance the UI for better visuals.
 - Allow players to restart the game without exiting.
 
-## License 📄
-This project is open-source and available under the MIT License. Feel free to modify and share!
+## Contact 
+
+Email- sializa077@gmail.com    
+Github- [Github profile](https://github.com/Aliza-Siddiqui)
 
